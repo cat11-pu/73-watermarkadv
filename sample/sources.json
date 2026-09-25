@@ -1,0 +1,16 @@
+{
+  "back_code": "E_WATERMARK_BACK",
+  "min_sources": 2,
+  "previous": 3,
+  "sources": [
+    {"id": "s0", "at": 4},
+    {"id": "s1", "at": 7},
+    {"id": "s2", "at": 1, "idle": true}
+  ],
+  "records": [
+    {"id": "r0", "at": 2},
+    {"id": "r1", "at": 5},
+    {"id": "r2", "at": 9},
+    {"id": "r3", "at": 6}
+  ]
+}
